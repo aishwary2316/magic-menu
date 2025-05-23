@@ -6,7 +6,7 @@
                     description: "A colorful medley of seasonal fresh fruits, drizzled with honey and mint leaves for a refreshing treat",
                     price: "₹20.00",
                     image: "https://eastindianrecipes.net/wp-content/uploads/2022/10/Custard-Fruit-Salad-Recipe-Eggless6.jpg?w=400&h=400&fit=crop&crop=center"
-                },
+                }/* ,
                 {
                     name: "Chocolate Cake",
                     description: "Rich, moist chocolate cake with creamy frosting and chocolate chips",
@@ -18,7 +18,7 @@
                     description: "Vanilla ice cream topped with hot fudge, whipped cream, and a cherry",
                     price: "₹7.99",
                     image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=400&fit=crop&crop=center"
-                }
+                } */
             ],
             savories: [
                 {
@@ -26,7 +26,7 @@
                     description: "Artisan bread layered with premium meats, fresh vegetables, and our signature sauce",
                     price: "₹30.00",
                     image: "https://nestle.fitterfly.in/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3RmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--321d15b672ef78ef5dc93c2cb26145252daabbc4/18740_Vegetable_Peanut_Butter_Sandwich.webp?w=400&h=400&fit=crop&crop=center"
-                },
+                }/* ,
                 {
                     name: "Caesar Salad",
                     description: "Fresh romaine lettuce with parmesan cheese, croutons and our signature Caesar dressing",
@@ -38,7 +38,7 @@
                     description: "Classic pizza with fresh mozzarella, tomatoes, and basil on thin crust",
                     price: "₹15.99",
                     image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=400&fit=crop&crop=center"
-                }
+                } */
             ],
             drinks: [
                 {
@@ -46,7 +46,7 @@
                     description: "Freshly squeezed lemons with a hint of mint, served chilled with ice cubes",
                     price: "₹10.00",
                     image: "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=400&h=400&fit=crop&crop=center"
-                },
+                }/* ,
                 {
                     name: "Iced Coffee",
                     description: "Premium coffee beans brewed to perfection, served over ice with your choice of milk",
@@ -58,7 +58,7 @@
                     description: "Blended acai berries topped with granola, fresh fruits, and coconut flakes",
                     price: "₹8.99",
                     image: "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=400&h=400&fit=crop&crop=center"
-                }
+                } */
             ]
         };
 
